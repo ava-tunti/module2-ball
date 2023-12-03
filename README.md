@@ -1,7 +1,7 @@
-#ava tunti github
+# ava tunti github
 MIT xPRO full stack developer course
 
-##Moving Ball Simulation
+## Moving Ball Simulation
 You can see the simulation here: [moving balls](https://ava-tunti.github.io/module2-ball/)
 
 The simulation makes a singular ball bounce from one corner to the other. It changes color by choosing RGB values at random. It also changes size at random, at each bounce. After each bounce, it also displays the text 'BOUNCE!' as a fun text effect. No installation steps required. Just click the link above. 
